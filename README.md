@@ -1,4 +1,4 @@
-# T7 - GSAP api example
+# T7 - GSAP api example 
 
 ## Purpose:
 

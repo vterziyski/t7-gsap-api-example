@@ -1,4 +1,4 @@
-fetch("city2.svg")
+fetch("city2.svg") 
   .then((e) => e.text())
   .then((d) => {
     document.querySelector("#test").insertAdjacentHTML("afterbegin", d);
